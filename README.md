@@ -98,14 +98,3 @@ Key features extracted from audio include:
 - MFCCs (Mel-frequency cepstral coefficients)
 
 The model returns a binary classification determining default risk.
-
-```
-
-## License
-
-[Specify your license here]
-
-## Contributors
-
-[List of contributors]
-```
